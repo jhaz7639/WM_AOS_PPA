@@ -25,7 +25,7 @@ An interactive tool has been created to display neuroimaging results for this st
 **https://jhaz7639.github.io/ppa_results_viewer/**
 
 
-Contact
+## Contact
 Dr Jessica L Hazelton
 
 FRONTIER, The University of Sydney
