@@ -25,7 +25,7 @@ An interactive tool has been created to display neuroimaging results for this st
 **https://jhaz7639.github.io/ppa_results_viewer/**
 
 ## AI use
-Code for analysis and figure creation (R, python) was developed with the assistance of Claude (Opus 5.5; Anthropic). All code was reviewed and run by the authors. 
+Code for analysis and figure creation (R, python) was implemented with the assistance of Claude (Opus 5.5; Anthropic). All code was reviewed and run by the authors. 
 
 ## Contact
 Dr Jessica L Hazelton
