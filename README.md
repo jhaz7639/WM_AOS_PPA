@@ -27,5 +27,7 @@ An interactive tool has been created to display neuroimaging results for this st
 
 Contact
 Dr Jessica L Hazelton
+
 FRONTIER, The University of Sydney
+
 Email: jessica.hazelton@sydney.edu.au 
